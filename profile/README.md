@@ -1,6 +1,26 @@
-# Mobility, Innovation, and NeuroDiverse Solutions (MINDS) Research
-Welcome to the MINDS Research GitHub! This is mostly just a "dumping ground" for all of my research projects and papers.
+# MINDS Research
 
-For more information about me and my research interests, please visit my [ORCiD](https://orcid.org/0009-0004-1135-2025)!
+**Mobility, Inclusion, and NeuroDiverse Solutions**
 
-My current research project can be found in [this repository](https://github.com/mindsresearch/autism-ai). Past works can be found in the other repositories!
+A collection of projects exploring data science, accessibility, adaptive technology, and neurodiversity.
+
+---
+
+## 🔬 Focus Areas
+- Accessible transit and GTFS data
+- Adaptive hardware and assistive tech
+- Disability representation in media
+- Autism and neurodiversity-aware AI
+- Data visualization and communication
+
+---
+
+## 📁 Major Projects
+- `autism-ai` – Machine learning on UCI autism screening datasets
+- `disability_trends` – NLP research on disability representation
+
+---
+
+## 👤 Maintainer
+[Noah Duggan (duggann4)](https://github.com/duggann4)  
+[Email](mailto:n.dugganerickson@outlook.com) |  [ORCID](https://orcid.org/0009-0004-1135-2025)
